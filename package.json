@@ -26,6 +26,7 @@
     "history": "4.6.3",
     "jquery": "3.2.1",
     "json-loader": "0.5.4",
+    "moment": "2.20.1",
     "node-noop": "1.0.0",
     "react": "15.6.1",
     "react-dom": "15.6.1",
